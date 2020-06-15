@@ -1,0 +1,40 @@
+_repo: El-Senor-y-los-demas-son-Cuentos_62361
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Alas, Leopoldo
+    aliases:
+    - Las Alas, Leopoldo García de
+    - García de las Alas, Leopoldo
+    - Urena, Leopoldo Alas y
+    - Clarin
+    - Ureña, Leopoldo Alas y
+    - Clarín
+    - De las Alas, Leopoldo García
+    - Garcia de las Alas, Leopoldo
+    birthdate: 1852
+    deathdate: 1901
+    gutenberg_agent_id: '7120'
+    url: http://www.gutenberg.org/2009/agents/7120
+    wikipedia:
+    - http://es.wikipedia.org/wiki/Leopoldo_Alas_%28%22Clar%C3%ADn%22%29
+    - http://en.wikipedia.org/wiki/Leopoldo_Alas_y_Ure%C3%B1a
+description: ''
+gutenberg_issued: '2020-06-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '62361'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Spanish'
+- !lcc 'PQ'
+- !lcsh 'Spanish fiction -- 19th century'
+- GITenberg
+tableOfContents: El Señor -- ¡Adiós, Cordera! -- Cambio de luz -- El Centauro -- Rivales
+  -- Protesto -- La yernocracia -- Un viejo verde -- Cuento futuro -- Un Jornalero
+  -- Benedictino -- La Ronca -- La rosa de oro.
+title: El Señor y los demás son Cuentos
+url: http://www.gutenberg.org/ebooks/62361
